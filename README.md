@@ -1,0 +1,2 @@
+# PPI
+Projekt programistyczny indywidualny
